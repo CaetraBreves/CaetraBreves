@@ -1,7 +1,7 @@
 <div style="width: 100%;">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=8378ff&text=Input%20text&reversal=false&section=header&descSize=0&descAlign=0&fontSize=0">
   <h1 align="center">
-    <a href="[https://git.io/typing-svg"><img style="width: 90%;" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8378FF&center=true&vCenter=true&random=false&width=435&lines=Greetings%2C+i'm+Francisco+Pinto!%E2%9C%8C%EF%B8%8F;I'm+currently+16+years+old.;i'm+from+Portugal.;Aiming+towards+Software+Engineering;Thanks+for+visiting!](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8378FF&center=true&vCenter=true&random=false&width=435&lines=Greetings%2C+i'm+Francisco+Pinto!%E2%9C%8C%EF%B8%8F;I'm+currently+16+years+old.;I'm+from+Portugal.;Aiming+towards+Software+Engineering;Thanks+for+visiting!" alt="Typing SVG" /></a>
+    <a href="[https://git.io/typing-svg"><img style="width: 90%;" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8378FF&center=true&vCenter=true&random=false&width=435&lines=Greetings%2C+i'm+Francisco+Pinto!%E2%9C%8C%EF%B8%8F;I'm+currently+16+years+old.;i'm+from+Portugal.;Aiming+towards+Software+Engineering;Thanks+for+visiting!](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8378FF&center=true&vCenter=true&random=false&width=435&lines=Greetings%2C+i'm+Francisco+Pinto!%E2%9C%8C%EF%B8%8F;I'm+currently+17+years+old.;I'm+from+Portugal.;Aiming+towards+Software+Engineering;Thanks+for+visiting!" alt="Typing SVG" /></a>
   </h1>
 
   <hr>
