@@ -59,10 +59,6 @@
   <hr>
    <h1 align="center" style="font-size: 50px">👋  See ya  👋</h1>
   <br>
-  <div align="center">
-    <img align="center" src="https://github.com/CaetraBreves/CaetraBreves/assets/144840275/a462cf08-023a-416a-8208-145dba34213f">
-  </div>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=8378ff&reversal=false&section=footer&descSize=0&descAlign=0&fontSize=0">
 
   
